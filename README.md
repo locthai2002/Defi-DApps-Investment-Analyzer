@@ -60,10 +60,10 @@ from datetime import datetime
 
 ### Install Coingecko Api 
 
-To install :
-```
-pip install pycoingecko````
+To install the Coingecko Api wrapper, check that your development environment is active, and then run the following command:
+
+  ```pip install pycoingecko```
 
 
 
-  ## Usage
+ 
