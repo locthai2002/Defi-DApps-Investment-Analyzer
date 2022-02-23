@@ -15,14 +15,16 @@ It incorporates the following 9 required dependencies. These dependencies includ
 
 ```
  import os
- import requests
- import json
- import pandas as pd
- from dotenv import load_dotenv
- from pycoingecko import CoinGeckoAPI
- from datetime import datetime
- from defillama import DefiLlama
- %matplotlib inline
+import requests
+import json
+import pandas as pd
+import hvplot.pandas
+from defillama import DefiLlama
+from requests import Request
+from pycoingecko import CoinGeckoAPI
+from datetime import datetime
+
+%matplotlib inline
 
 ```
  ## Installation Guide
