@@ -14,7 +14,7 @@ This project uses Anaconda and Jupyterlab with **Python 3.9**
 It incorporates the following 9 required dependencies. These dependencies include the folowing imports :
 
 ```
- import os
+import os
 import requests
 import json
 import pandas as pd
