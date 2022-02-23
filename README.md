@@ -71,4 +71,5 @@ To install  DeFi Llama API client in python, check that your development environ
 ```pip install DeFiLlama```
 
 
- 
+   ## Usage
+ You will need to clone the repo so that you can run the application:
