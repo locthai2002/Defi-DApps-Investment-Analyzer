@@ -72,5 +72,7 @@ To install  DeFi Llama API client in python, check that your development environ
 
 
    ## Usage
+ 
  You will need to clone the repo so that you can run the application:
+
 ``` https://github.com/locthai2002/Defi-DApps-Investment-Analyzer.git```
