@@ -58,16 +58,12 @@ from datetime import datetime
    
    ```conda install -c jmcmurray json```
 
+### Install Coingecko Api 
+
+To install :
+```
+pip install pycoingecko````
 
 
-### Install the python-dotenv Library
-To install this library, run the following command in your terminal:
-
-```pip install python-dotenv```
-
-### Install the Alpaca SDK
-To install this SDK, run the following command in your terminal:
-
-```pip install alpaca-trade-api```
 
   ## Usage
