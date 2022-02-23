@@ -64,6 +64,11 @@ To install the Coingecko Api wrapper, check that your development environment is
 
   ```pip install pycoingecko```
 
+### Install DeFi Llama 
+
+To install  DeFi Llama API client in python, check that your development environment is active, and then run the following command:
+
+```pip install DeFiLlama```
 
 
  
