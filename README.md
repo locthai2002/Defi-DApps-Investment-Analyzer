@@ -77,7 +77,7 @@ To install  DeFi Llama API client in python, check that your development environ
 
 ``` https://github.com/locthai2002/Defi-DApps-Investment-Analyzer.git```
 
- # Get the Total Liquidity
+ ### Get the Total Liquidity
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/96351609/155435909-e51d1274-1ac3-4a66-9eaa-df7fef19609f.png">
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/96351609/155435934-1f19a6ae-ceeb-4747-9bf5-7508c90750e7.png">
 
