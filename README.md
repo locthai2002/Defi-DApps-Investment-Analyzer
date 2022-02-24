@@ -79,7 +79,9 @@ To install  DeFi Llama API client in python, check that your development environ
 
 
 
-   ## Usage
+  
+ 
+ ## Usage
  
  You will need to clone the repo so that you can run the application:
 
@@ -104,6 +106,15 @@ To install  DeFi Llama API client in python, check that your development environ
  ### Analyse the Historical Tokens Prices
  <img width="1440" alt="Capture d’écran 2022-02-23 à 4 22 17 PM" src="https://user-images.githubusercontent.com/96351609/155436357-9387ec9e-b888-4cc9-93fb-bfa33d84a632.png">
 <img width="1440" alt="Capture d’écran 2022-02-23 à 4 22 59 PM" src="https://user-images.githubusercontent.com/96351609/155436375-b4a2149f-0f95-4fac-aedf-2773ede9a8c4.png">
+
+
+
+ ## Contributor
+ 
+Tim Tennyson
+Loc Thai
+Mohammed Amine Baite
+Vic Gellon
 
  
  
