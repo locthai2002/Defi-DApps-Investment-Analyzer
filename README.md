@@ -27,6 +27,11 @@ from datetime import datetime
 %matplotlib inline
 
 ```
+
+
+
+
+
  ## Installation Guide
  It is necessary to install the different dependencies before launching the application.
  
@@ -69,6 +74,9 @@ To install the Coingecko Api wrapper, check that your development environment is
 To install  DeFi Llama API client in python, check that your development environment is active, and then run the following command:
 
 ```pip install DeFiLlama```
+
+
+
 
 
    ## Usage
