@@ -81,19 +81,19 @@ To install  DeFi Llama API client in python, check that your development environ
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/96351609/155435909-e51d1274-1ac3-4a66-9eaa-df7fef19609f.png">
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/96351609/155435934-1f19a6ae-ceeb-4747-9bf5-7508c90750e7.png">
 
- # Analyze the differents TVL 
+ ### Analyze the differents TVL 
 <img width="1418" alt="3" src="https://user-images.githubusercontent.com/96351609/155436053-0ebc6940-3e9e-4719-b1df-7179b27504c1.png">
 <img width="1440" alt="4" src="https://user-images.githubusercontent.com/96351609/155436060-e974f3e8-2822-4455-a29e-e7c54d1ea1fe.png">
 
- # Analyze the differents Market CAP
+ ### Analyze the differents Market CAP
  <img width="1430" alt="5" src="https://user-images.githubusercontent.com/96351609/155436129-e40d36e6-3485-4411-ba10-ec067ad3a9c1.png">
 <img width="1440" alt="6" src="https://user-images.githubusercontent.com/96351609/155436154-e91122a6-7e35-4fb8-a8d3-64cf8a13ae1c.png">
 
- # Calculate the Market Cap/TVL Ratio
+ ### Calculate the Market Cap/TVL Ratios
  <img width="1435" alt="7" src="https://user-images.githubusercontent.com/96351609/155436274-7907493c-2338-4ec1-970e-c6c71def4121.png">
 <img width="1440" alt="8" src="https://user-images.githubusercontent.com/96351609/155436284-579796fb-b673-40a2-b363-6922b239c29b.png">
 
- # Analyse the Historical Token Prices
+ ### Analyse the Historical Token Prices
  <img width="1440" alt="Capture d’écran 2022-02-23 à 4 22 17 PM" src="https://user-images.githubusercontent.com/96351609/155436357-9387ec9e-b888-4cc9-93fb-bfa33d84a632.png">
 <img width="1440" alt="Capture d’écran 2022-02-23 à 4 22 59 PM" src="https://user-images.githubusercontent.com/96351609/155436375-b4a2149f-0f95-4fac-aedf-2773ede9a8c4.png">
 
