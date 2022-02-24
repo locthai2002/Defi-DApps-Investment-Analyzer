@@ -112,8 +112,11 @@ To install  DeFi Llama API client in python, check that your development environ
  ## Contributor
  
 Tim Tennyson
+
 Loc Thai
+
 Mohammed Amine Baite
+
 Vic Gellon
 
  
